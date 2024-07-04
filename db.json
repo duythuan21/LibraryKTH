@@ -1,0 +1,268 @@
+{
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Harry Potter và tên tù nhân ngục Azkaban",
+      "image": "images/harrypotter3.png",
+      "category": "novel",
+      "label": "Hot",
+      "price": "4.99",
+      "featured": true,
+      "description": "Harry Potter và Tên Tù Nhân Ngục Azkaban kể về cuộc phiêu lưu của Harry khi đối mặt với Sirius Black, kẻ trốn khỏi Azkaban để tìm kiếm sự thật về quá khứ của cậu"
+    },
+    {
+      "id": 1,
+      "name": "Hoá Đại cương",
+      "image": "images/hoadaicuong.png",
+      "category": "Book",
+      "label": "Sale",
+      "price": "1.99",
+      "featured": false,
+      "description": "Hoá Đại Cương là cuốn sách cung cấp kiến thức về lý thuyết và các nguyên lý cơ bản của hóa học, từ cấu trúc nguyên tử đến các phản ứng hóa học cơ bản và ứng dụng trong đời sống hàng ngày."
+    },
+    {
+      "id": 2,
+      "name": "Mác-Lênin",
+      "image": "images/maclenin.png",
+      "category": "Book",
+      "label": "New",
+      "price": "1.99",
+      "featured": false,
+      "description": "Triết Học Mác-Lênin là tác phẩm nền tảng của chủ nghĩa Mác-Lênin, bao gồm lý luận về vật chất, lịch sử và tư tưởng, hướng dẫn con đường tiến lên của các dân tộc."
+    },
+    {
+      "id": 3,
+      "name": "The art of game design",
+      "image": "images/gamedesign.png",
+      "category": "Book",
+      "label": "Hot",
+      "price": "2.99",
+      "featured": false,
+      "description": "The Art of Game Design là một hướng dẫn toàn diện về quá trình thiết kế trò chơi, từ ý tưởng sáng tạo đến thực hiện và tương tác người chơi, khám phá các nguyên lý và kỹ thuật thiết kế sâu sắc."
+    }
+  ],
+  "comments": [
+    {
+      "id": 0,
+      "dishId": 0,
+      "rating": 5,
+      "comment": "Kịch tính, phát triển nhân vật sâu sắc, thế giới phép thuật đầy mê hoặc.",
+      "author": "Trần Thị Bình",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 1,
+      "dishId": 0,
+      "rating": 4,
+      "comment": "Cốt truyện hấp dẫn, nhưng có thể phức tạp đôi khi.",
+      "author": "Lê Văn Cảnh",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 2,
+      "dishId": 0,
+      "rating": 3,
+      "comment": "Một trong những cuốn sách hay nhất trong loạt Harry Potter.",
+      "author": "Phạm Thị Dung",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 3,
+      "dishId": 0,
+      "rating": 4,
+      "comment": "Hay",
+      "author": "Hoàng Văn Hoàng",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 4,
+      "dishId": 0,
+      "rating": 2,
+      "comment": "Đáng đọc, nhưng không nổi bật so với các phần khác.",
+      "author": "25 Cent",
+      "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 5,
+      "dishId": 1,
+      "rating": 5,
+      "comment": "Sách cơ bản tuyệt vời cho người mới bắt đầu học hóa học.",
+      "author": "Vũ Thị Phương",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 6,
+      "dishId": 1,
+      "rating": 4,
+      "comment": "Giải thích rõ ràng, dễ hiểu, phù hợp cho học sinh đại học.",
+      "author": "Đặng Văn Giang",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 7,
+      "dishId": 1,
+      "rating": 3,
+      "comment": "Thú vị và thông tin hữu ích, nhưng có thể khó tiếp cận.",
+      "author": "Bùi Thị Hạnh",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 8,
+      "dishId": 1,
+      "rating": 4,
+      "comment": "Nên đọc",
+      "author": "Đỗ Văn Lộc",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 9,
+      "dishId": 1,
+      "rating": 2,
+      "comment": "Cần nâng cấp phần minh họa và ví dụ thực tế.",
+      "author": "Ngô Thị Khánh",
+      "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 10,
+      "dishId": 2,
+      "rating": 5,
+      "comment": "Cẩm nang triết lý mạch lạc, chiến lược cách mạng nổi bật.",
+      "author": "Đinh Văn Lộc",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 11,
+      "dishId": 2,
+      "rating": 4,
+      "comment": "Phân tích sâu sắc về chủ nghĩa Mác-Lênin, ý tưởng hợp lý.",
+      "author": "Hà Thị Mai",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 12,
+      "dishId": 2,
+      "rating": 3,
+      "comment": "Có giá trị lịch sử, nhưng phần nhiều là lý thuyết chính trị.",
+      "author": "Trương Văn Nghi",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 13,
+      "dishId": 2,
+      "rating": 4,
+      "comment": "Nên đọc",
+      "author": "Ringo Starry",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 14,
+      "dishId": 2,
+      "rating": 2,
+      "comment": "Phức tạp và khó hiểu đối với người không chuyên.",
+      "author": "Lý Thị Oanh",
+      "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 15,
+      "dishId": 3,
+      "rating": 5,
+      "comment": "Tài liệu tuyệt vời cho nhà thiết kế trò chơi.",
+      "author": "Mai Văn Phương",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 16,
+      "dishId": 3,
+      "rating": 4,
+      "comment": "Hữu ích và cung cấp góc nhìn sáng tạo về thiết kế trò chơi.",
+      "author": "Lương Thị Quỳnh",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 17,
+      "dishId": 3,
+      "rating": 3,
+      "comment": "Thông tin có ích, nhưng phần nào lý thuyết quá nhiều.",
+      "author": "Hoàng Văn Sinh",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 18,
+      "dishId": 3,
+      "rating": 4,
+      "comment": "Hay nên đọc",
+      "author": "Phan Thị Hoa",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 19,
+      "dishId": 3,
+      "rating": 2,
+      "comment": "Thiếu thực tiễn và không đủ cụ thể.",
+      "author": "Võ Văn Tần",
+      "date": "2011-12-02T17:57:28.556094Z"
+    }
+  ],
+  "promotions": [
+    {
+      "id": 0,
+      "name": "Giáo trình tiếng nhật",
+      "image": "images/jp.png",
+      "label": "New",
+      "price": "19.99",
+      "featured": true,
+      "description": "Cuốn sách Giáo trình Tiếng Nhật N5 cung cấp những kiến thức cơ bản về ngữ pháp, từ vựng và kỹ năng nghe nói đọc viết cho người học mới bắt đầu học tiếng Nhật. Nó là tài liệu hữu ích để chuẩn bị cho kỳ thi Năng lực Nhật ngữ N5."
+    }
+  ],
+  "leaders": [
+    {
+      "id": 0,
+      "name": "Phạm Nguyễn Duy Thuận",
+      "image": "images/ace.png",
+      "designation": "Bibliophilic Officer",
+      "abbr": "CEO",
+      "featured": false,
+      "description": "Người đứng đầu tổ chức, chỉ đạo chiến lược và quản lý chung."
+    },
+    {
+      "id": 1,
+      "name": "Kafka",
+      "image": "images/kafka.png",
+      "designation": "Librarian Officer",
+      "abbr": "CFO",
+      "featured": false,
+      "description": "Chịu trách nhiệm quản lý tài chính, đầu tư và chiến lược vốn."
+    },
+    {
+      "id": 2,
+      "name": "Hoàng Công Kha",
+      "image": "images/kha.png",
+      "designation": "Archivist Officer",
+      "abbr": "CTO",
+      "featured": false,
+      "description": "Kha Spakle-less. Điều hành chiến lược công nghệ và phát triển sản phẩm."
+    },
+    {
+      "id": 3,
+      "name": "Lý Gia Hân",
+      "image": "images/han.png",
+      "designation": "Executive Librarian",
+      "abbr": "EC",
+      "featured": true,
+      "description": "Lãnh đạo quản lý và phát triển tài nguyên thư viện, đảm bảo cung cấp dịch vụ hiệu quả cho người sử dụng."
+    }
+  ],
+  "feedback": [
+    {
+      "firstname": "Kha",
+      "lastname": "Hoàng",
+      "telnum": "134113",
+      "email": "khahoang@gmail.com",
+      "agree": true,
+      "contactType": "Email",
+      "message": "We needs you",
+      "date": "2017-12-04T09:41:49.890Z",
+      "id": 1
+    }
+  ]
+}
